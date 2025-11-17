@@ -1,4 +1,16 @@
 Cybersecurity Reports & Lab Work
+<!-- Tools & Skills Badges -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows%20Active%20Directory-0078D4?logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-2C8EBB?logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/BloodHound-CC0000?logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hashcat-EE6C4D?logo=hashcat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shodan-F20000?logo=shodan&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSINT-000000?logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phishing%20Analysis-4B8BBE?logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital%20Forensics-0052CC?logo=icloud&logoColor=white" />
+</p>
 
 A collection of my cybersecurity projects, labs, and research reports.
 This repo includes Active Directory exploitation, Digital Forensics, OSINT, and Phishing analysis work.
