@@ -51,7 +51,7 @@ Analyzed a real-world phishing email (`sample-1011.eml`) impersonating Microsoft
 Investigated a suspected image file → extracted a hidden password-protected ZIP using `binwalk` → cracked the archive password (`159357`) using `fcrackzip` with `rockyou.txt` → decrypted a Caesar cipher flag (ROT21 shift) using CyberChef to reveal `ACESELECTRONS2025{you've_found_it}`.
 
 `binwalk` `fcrackzip` `CyberChef` `Steganography` `Cryptography`
-📄 [Digital Forensics & Steganography CTF.pdf](./Blue%20Team/Digital%20Forensics%20%26%20Steganograpy.pdf)
+📄 [Digital Forensics & Steganography CTF.pdf](./Blue%20Team/Digital%20Forensics%20%26%20Steganography%20CTF.pdf)
 
 ---
 
