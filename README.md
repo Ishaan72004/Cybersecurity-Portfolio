@@ -51,7 +51,7 @@ Analyzed a real-world phishing email (`sample-1011.eml`) impersonating Microsoft
 Investigated a suspected image file → extracted a hidden password-protected ZIP using `binwalk` → cracked the archive password (`159357`) using `fcrackzip` with `rockyou.txt` → decrypted a Caesar cipher flag (ROT21 shift) using CyberChef to reveal `ACESELECTRONS2025{you've_found_it}`.
 
 `binwalk` `fcrackzip` `CyberChef` `Steganography` `Cryptography`
-📄 [Digital Forensics & Steganography CTF.pdf](./Blue%20Team/Digital%20Forensics%20%26%20Steganograp....pdf)
+📄 [Digital Forensics & Steganography CTF.pdf](./Blue%20Team/Digital%20Forensics%20%26%20Steganograpy.pdf)
 
 ---
 
@@ -59,7 +59,7 @@ Investigated a suspected image file → extracted a hidden password-protected ZI
 Conducted full-cycle OSINT investigation into a coordinated paid internship fraud network targeting freshers and recent graduates on LinkedIn → applied undercover as a fake persona ("Arthur Bing") to map the complete application-to-payment funnel → identified 3 linked entities (SkillzenLoop, ClinchEdge, AtlysBridge) operating under a single operation using multi-brand redirection to distribute liability → confirmed zero MCA registration across all entities → extracted hardcoded placeholder credentials (`info@mysite.com`) from live site source code using `grep` → documented domain registered with WHOIS privacy shield, unedited template privacy policy, and ghost address on Google Maps → produced structured case file with 26 evidence items and severity-rated red flag matrix.
 
 `WHOIS` `MCA Portal` `Google Dorking` `Source Code Analysis` `LinkedIn OSINT` `Kali Linux`
-📄 [SkillzenLoop_OSINT_CaseFile.pdf](./OSINT/SkillzenLoop_OSINT_CaseFile.pdf)
+📄 [SkillzenLoop_OSINT_CaseFile.pdf](./Blue%20Team/SkillzenLoop_OSINT_CaseFile.pdf)
 
 ---
 
@@ -67,7 +67,7 @@ Conducted full-cycle OSINT investigation into a coordinated paid internship frau
 Investigated a multi-account influence operation on Instagram targeting migrant communities in Delhi → mapped 4-asset CIB infrastructure (thinkingcraftsman, delhinativeclub, stopcolonizationofdelhi, dilli_is_not_for_sale) with full deployment timeline from January 2025 to June 2026 → identified geographic deception via LHD vehicle dashboard indicators and snowbank footage physically inconsistent with claimed Palam, Delhi location, confirming North American uplink node → cross-referenced unmasked facial biometric footprint across international media aggregates (MSN, News9Live, Business Today) using reverse image search → documented OPSEC failure progression and actor masking evolution → produced formal Threat Intelligence Brief with recommended platform takedown action matrix.
 
 `Instagram OSINT` `Facial Recognition` `Geographic Analysis` `CIB Detection` `Reverse Image Search` `Threat Intel Reporting`
-📄 [DelhiNativeClub_Threat_Intelligence_Brief.pdf](./OSINT/DelhiNativeClub_Threat_Intelligence_Brief.pdf)
+📄 [DelhiNativeClub_Threat_Intelligence_Brief.pdf](./Blue%20Team/DelhiNativeClub_Threat_Intelligence_Brief.pdf)
 
 ---
 
